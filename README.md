@@ -1,14 +1,17 @@
 # CurseOfStriga
 Witcher Hack and Slash Game: The Curse Of Striga
+<img width="1919" height="1079" alt="Screenshot 2026-05-28 071705" src="https://github.com/user-attachments/assets/3deef8e4-9e15-4de3-a932-b2b16137ae2c" />
+
 
 # Striga — Unreal Engine 5 Dark Fantasy Prototype
-
+<img width="1479" height="803" alt="Screenshot 2026-05-27 223859" src="https://github.com/user-attachments/assets/006d1d5a-8638-49fa-8330-e72eb205d89f" />
 > A dark fantasy action prototype inspired by Slavic folklore and *The Witcher*, developed in Unreal Engine 5.5.4.
 > The project focuses on cinematic combat, atmospheric storytelling, enemy AI, and immersive environment design.
 
 ---
 
 ## 📖 Overview
+<img width="1483" height="809" alt="Screenshot 2026-05-27 224459" src="https://github.com/user-attachments/assets/d3407f01-6c12-4ae6-b72d-043a4ce60afc" />
 
 **Striga** is a third-person dark fantasy prototype where the player takes the role of a Witcher sent to an abandoned castle to lift the curse of a Striga — the cursed daughter of a king.
 
@@ -17,6 +20,8 @@ The project was developed as part of a university game development project and d
 ---
 
 ## 🎮 Core Features
+<img width="1129" height="787" alt="Screenshot 2026-05-29 212944" src="https://github.com/user-attachments/assets/358a16cf-9808-4f02-8ad2-b9e16bcf8b21" />
+
 
 * Third-person melee combat system
 * Enemy AI with combat behaviours
@@ -33,7 +38,7 @@ The project was developed as part of a university game development project and d
 ---
 
 ## 🛠️ Technologies Used
-
+<img width="1490" height="777" alt="Screenshot 2026-05-27 224052" src="https://github.com/user-attachments/assets/cd8310b9-4dc4-4c53-a814-22086f00cd1e" />
 * **Engine:** Unreal Engine 5.5.4
 * **Programming:** Blueprint System
 * **Audio:** Unreal Audio System
@@ -67,6 +72,7 @@ Striga/
 ---
 
 ## ⚔️ Gameplay Summary
+<img width="1129" height="814" alt="Screenshot 2026-05-29 212918" src="https://github.com/user-attachments/assets/050c5605-ede1-4741-8725-0fe0aaeae944" />
 
 The player receives a contract from the King to investigate an abandoned castle haunted by a Striga.
 While initially appearing to be a monster-hunting mission, the Witcher discovers that the creature is actually the King’s cursed daughter.
@@ -76,6 +82,8 @@ The objective is not only to survive the night, but potentially break the curse.
 ---
 
 ## 📸 Screenshots
+<img width="1620" height="905" alt="Screenshot 2026-05-28 203804" src="https://github.com/user-attachments/assets/5c54ff4d-58d2-4afc-ac62-b618cb16305a" />
+<img width="1134" height="826" alt="Screenshot 2026-05-29 213021" src="https://github.com/user-attachments/assets/459022c6-1a75-4b15-9fd3-0f51a05d57f5" />
 
 > Add gameplay screenshots here before uploading to GitHub.
 
@@ -97,6 +105,7 @@ Example:
 ---
 
 ## 🚀 Installation / Running the Build
+<img width="1495" height="785" alt="Screenshot 2026-05-27 224152" src="https://github.com/user-attachments/assets/054f0c3d-b1f8-49fc-97b3-e16610eafe1a" />
 
 ### Requirements
 
@@ -125,9 +134,9 @@ No additional installation required.
 | Move         | WASD              |
 | Look         | Mouse             |
 | Attack       | Left Mouse Button |
-| Dodge / Roll | Space             |
-| Interact     | E                 |
-| Pause        | ESC               |
+| TPP Camera   | Right Mouse Button|
+| Jump         | Space             |
+| Pause        | P or ESC          |
 
 ---
 
@@ -184,9 +193,9 @@ Planned improvements include:
 
 | Version                    | Status                   |
 | -------------------------- | ------------------------ |
-| v0.1 Prototype             | Initial combat prototype |
-| v0.2 Gameplay Update       | AI + combat improvements |
-| v0.3 Presentation Build    | Cinematics + polish      |
+| v0.7 Prototype             | Initial combat prototype |
+| v0.8 Gameplay Update       | AI + combat improvements |
+| v0.9 Presentation Build    | Cinematics + polish      |
 | v1.0 University Submission | Final academic prototype |
 
 ---
