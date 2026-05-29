@@ -83,14 +83,19 @@ The objective is not only to survive the night, but potentially break the curse.
 
 ## 📸 Screenshots
 <img width="1620" height="905" alt="Screenshot 2026-05-28 203804" src="https://github.com/user-attachments/assets/5c54ff4d-58d2-4afc-ac62-b618cb16305a" />
+
 <img width="1134" height="826" alt="Screenshot 2026-05-29 213021" src="https://github.com/user-attachments/assets/459022c6-1a75-4b15-9fd3-0f51a05d57f5" />
+
 <img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/84b9fac2-2b0e-4d6e-840c-62803e98ab23" />
+
 <img width="1919" height="1023" alt="Screenshot 2026-05-29 233822" src="https://github.com/user-attachments/assets/3b295577-3da9-478d-b18e-a5e688e8d8d8" />
 
 
+<img width="140" height="56" alt="image" src="https://github.com/user-attachments/assets/28a29348-e6f3-43b5-a8c6-86cd38f94866" />
+
 <a href="https://youtu.be/Lac8LgACHUY">Watch this YouTube video</a>   
 
-<a href="https://youtu.be/nNRXO7EuOiw">Watch this YouTube video</a> 
+<a href="https://youtu.be/nNRXO7EuOiw">Watch this YouTube video</a>
 ---
 
 ## 🚀 Installation / Running the Build
