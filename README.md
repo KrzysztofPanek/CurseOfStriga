@@ -227,10 +227,8 @@ This project demonstrates:
 
 ## 📥 Release Build
 
-The release build can be found in the **Releases** section of this repository.
-
-Recommended release naming:
 
 ```text
-[KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z](https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/Final/KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z)
+KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z
+<a href="[https://youtu.be/Lac8LgACHUY](https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/Final/KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z)">KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z</a> 
 ```
