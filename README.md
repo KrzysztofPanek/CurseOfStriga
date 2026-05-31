@@ -227,8 +227,5 @@ This project demonstrates:
 
 ## 📥 Release Build
 
-
-```text
-KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z
 <a href="[https://youtu.be/Lac8LgACHUY](https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/Final/KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z)">KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z</a> 
-```
+
