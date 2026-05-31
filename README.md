@@ -110,11 +110,11 @@ The objective is not only to survive the night, but potentially break the curse.
 ### Running the Game
 
 1. Download the latest release build
-2. Extract the `.zip` archive
+2. Extract the `.7z` archive
 3. Run:
 
 ```text
-Striga.exe
+TiltShift.exe
 ```
 
 No additional installation required.
@@ -199,7 +199,6 @@ Planned improvements include:
 Developed by **Krzysztof Panek**
 Games Programming Student
 
-GitHub: *(Add your GitHub profile link here)*
 
 ---
 
@@ -233,31 +232,5 @@ The release build can be found in the **Releases** section of this repository.
 Recommended release naming:
 
 ```text
-Striga_v1.0_Win64.zip
+[KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z](https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/Final/KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z)
 ```
-
-Recommended GitHub tags:
-
-```text
-v0.1
-v0.2
-v0.3
-v1.0
-```
-
----
-
-## ✅ Professional GitHub Checklist
-
-Before publishing:
-
-* [ ] Add gameplay screenshots
-* [ ] Upload playable build
-* [ ] Remove unnecessary files (`Saved`, `Intermediate`)
-* [ ] Include `.gitignore`
-* [ ] Verify executable works on another PC
-* [ ] Ensure folder naming consistency
-* [ ] Add version tags/releases
-* [ ] Include testing evidence
-* [ ] Proofread README
-* [ ] Add short gameplay video/GIF
