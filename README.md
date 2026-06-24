@@ -227,5 +227,5 @@ This project demonstrates:
 
 ## 📥 Release Build
 
-<a href="https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/Final/KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z">KrzysztofPanek-310526-Witcher-Release-NoIntro-v1dot1-win64.7z</a> 
+<a href="https://github.com/KrzysztofPanek/CurseOfStriga/releases/download/FinalwithIntro/KrzysztofPanek-240626-Witcher-INTRO-Release-v1dot2dot244-win64.7z">KrzysztofPanek-240626-Witcher-INTRO-Release-v1dot2dot244-win64.7z</a> 
 
