@@ -5,8 +5,8 @@ Witcher Hack and Slash Game: The Curse Of Striga
 
 # Striga — Unreal Engine 5 Dark Fantasy Prototype
 <img width="1479" height="803" alt="Screenshot 2026-05-27 223859" src="https://github.com/user-attachments/assets/006d1d5a-8638-49fa-8330-e72eb205d89f" />
-> A dark fantasy action prototype inspired by Slavic folklore and *The Witcher*, developed in Unreal Engine 5.5.4.
-> The project focuses on cinematic combat, atmospheric storytelling, enemy AI, and immersive environment design.
+A dark fantasy action prototype inspired by Slavic folklore and *The Witcher*, developed in Unreal Engine 5.5.4.
+<br>The project focuses on cinematic combat, atmospheric storytelling, enemy AI, and immersive environment design.
 
 ---
 
